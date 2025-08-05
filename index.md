@@ -20,3 +20,6 @@ Account Registration Checker values your privacy and is committed to protecting 
 ## Contact
 If you have questions or concerns about privacy, please contact us at:  
 **martinsifekelvin@gmail.com**
+---
+Need more info? Read our [Terms of Service](terms).
+
